@@ -50,19 +50,16 @@ Experience across:
 ### 🔹 Clinical Risk Modelling
 Reproducible R-based workflow for analysing cardiovascular risk factors using simulated real-world patient data. Demonstrates data cleaning, regression modelling, model validation, and interpretable reporting.
 Tools: R, ggplot2, logistic regression
-➡️ View Project
 
 ---
 
 ### 🔹 Reproducible Analytics Pipeline in R
 End-to-end structured workflow for transforming raw clinical datasets into analysis-ready outputs (TLFs).  
-➡️ [View Project](link-to-repo)
 
 ---
 
-### 🔹 Healthcare KPI Dashboard
-Interactive Power BI dashboard built on structured SQL datasets to monitor healthcare performance indicators and support operational decision-making.
-➡️ [View Project](link-to-repo)
+### 🔹 Healthcare Dashboard
+Interactive dashboard to monitor healthcare performance indicators and support operational decision-making.
 
 ---
 
